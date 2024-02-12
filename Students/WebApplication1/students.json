@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "studentId": "123456789",
+    "oldStudentId": "123456789",
+    "firstName": "אאידה",
+    "lastName": "איילין",
+    "gender": "זכר",
+    "studentClass": "ז",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": null,
+    "personalPlanStatus": null,
+    "birthDate": "2004-11-13T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 2,
+    "studentId": "123456788",
+    "oldStudentId": "123456788",
+    "firstName": "אב אל",
+    "lastName": "אביה",
+    "gender": "נקבה",
+    "studentClass": "י",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": "מאושר",
+    "personalPlanStatus": null,
+    "birthDate": "2004-04-07T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 3,
+    "studentId": "123456787",
+    "oldStudentId": "123456787",
+    "firstName": "אבאטו",
+    "lastName": "אקטע",
+    "gender": "זכר",
+    "studentClass": "ז",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": null,
+    "personalPlanStatus": null,
+    "birthDate": "2004-05-10T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 4,
+    "studentId": "123456786",
+    "oldStudentId": "123456786",
+    "firstName": "אבאייה",
+    "lastName": "גריידי",
+    "gender": "נקבה",
+    "studentClass": "י",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": null,
+    "personalPlanStatus": null,
+    "birthDate": "2001-01-03T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 5,
+    "studentId": "123456785",
+    "oldStudentId": "123456785",
+    "firstName": "אבאינד",
+    "lastName": "טל",
+    "gender": "זכר",
+    "studentClass": "יא",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": "מאושר",
+    "personalPlanStatus": null,
+    "birthDate": "2001-03-01T00:00:00.000Z",
+    "birthCountry": {
+      "id": 2,
+      "name": "אתיופיה"
+    }
+  },
+  {
+    "id": 6,
+    "studentId": "123456784",
+    "oldStudentId": "123456784",
+    "firstName": "אאידה",
+    "lastName": "איילין",
+    "gender": "זכר",
+    "studentClass": "ז",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": null,
+    "personalPlanStatus": null,
+    "birthDate": "2004-11-13T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 7,
+    "studentId": "123456783",
+    "oldStudentId": "123456783",
+    "firstName": "אב אל",
+    "lastName": "אביה",
+    "gender": "נקבה",
+    "studentClass": "י",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": "מאושר",
+    "personalPlanStatus": null,
+    "birthDate": "2004-04-07T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 8,
+    "studentId": "123456782",
+    "oldStudentId": "123456782",
+    "firstName": "אבאטו",
+    "lastName": "אקטע",
+    "gender": "זכר",
+    "studentClass": "ז",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": null,
+    "personalPlanStatus": null,
+    "birthDate": "2004-05-10T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 9,
+    "studentId": "123456781",
+    "oldStudentId": "123456781",
+    "firstName": "אבאייה",
+    "lastName": "גריידי",
+    "gender": "נקבה",
+    "studentClass": "י",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": null,
+    "personalPlanStatus": null,
+    "birthDate": "2001-01-03T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 10,
+    "studentId": "123456710",
+    "oldStudentId": "123456710",
+    "firstName": "אבאינד",
+    "lastName": "טל",
+    "gender": "זכר",
+    "studentClass": "יא",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": "מאושר",
+    "personalPlanStatus": null,
+    "birthDate": "2001-03-01T00:00:00.000Z",
+    "birthCountry": {
+      "id": 2,
+      "name": "אתיופיה"
+    }
+  },
+  {
+    "id": 11,
+    "studentId": "123456719",
+    "oldStudentId": "123456719",
+    "firstName": "אאידה",
+    "lastName": "איילין",
+    "gender": "זכר",
+    "studentClass": "ז",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": null,
+    "personalPlanStatus": null,
+    "birthDate": "2004-11-13T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 12,
+    "studentId": "123456718",
+    "oldStudentId": "123456718",
+    "firstName": "אב אל",
+    "lastName": "אביה",
+    "gender": "נקבה",
+    "studentClass": "י",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": "מאושר",
+    "personalPlanStatus": null,
+    "birthDate": "2004-04-07T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 13,
+    "studentId": "123456717",
+    "oldStudentId": "123456717",
+    "firstName": "אבאטו",
+    "lastName": "אקטע",
+    "gender": "זכר",
+    "studentClass": "ז",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": null,
+    "personalPlanStatus": null,
+    "birthDate": "2004-05-10T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 14,
+    "studentId": "123456716",
+    "oldStudentId": "123456716",
+    "firstName": "אבאייה",
+    "lastName": "גריידי",
+    "gender": "נקבה",
+    "studentClass": "י",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": null,
+    "personalPlanStatus": null,
+    "birthDate": "2001-01-03T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 15,
+    "studentId": "123456715",
+    "oldStudentId": "123456715",
+    "firstName": "אבאינד",
+    "lastName": "טל",
+    "gender": "זכר",
+    "studentClass": "יא",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": "מאושר",
+    "personalPlanStatus": null,
+    "birthDate": "2001-03-01T00:00:00.000Z",
+    "birthCountry": {
+      "id": 2,
+      "name": "אתיופיה"
+    }
+  },
+  {
+    "id": 16,
+    "studentId": "123456714",
+    "oldStudentId": "123456714",
+    "firstName": "אאידה",
+    "lastName": "איילין",
+    "gender": "זכר",
+    "studentClass": "ז",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": null,
+    "personalPlanStatus": null,
+    "birthDate": "2004-11-13T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 17,
+    "studentId": "123456713",
+    "oldStudentId": "123456713",
+    "firstName": "אב אל",
+    "lastName": "אביה",
+    "gender": "נקבה",
+    "studentClass": "י",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": "מאושר",
+    "personalPlanStatus": null,
+    "birthDate": "2004-04-07T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 18,
+    "studentId": "123456712",
+    "oldStudentId": "123456712",
+    "firstName": "אבאטו",
+    "lastName": "אקטע",
+    "gender": "זכר",
+    "studentClass": "ז",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": null,
+    "personalPlanStatus": null,
+    "birthDate": "2004-05-10T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 19,
+    "studentId": "123456711",
+    "oldStudentId": "123456711",
+    "firstName": "אבאייה",
+    "lastName": "גריידי",
+    "gender": "נקבה",
+    "studentClass": "י",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": null,
+    "personalPlanStatus": null,
+    "birthDate": "2001-01-03T00:00:00.000Z",
+    "birthCountry": {
+      "id": 1,
+      "name": "ישראל"
+    }
+  },
+  {
+    "id": 20,
+    "studentId": "123456720",
+    "oldStudentId": "123456720",
+    "firstName": "אבאינד",
+    "lastName": "טל",
+    "gender": "זכר",
+    "studentClass": "יא",
+    "studentStatus": "Continue",
+    "studentType": "Minhal",
+    "surveyStatus": "מאושר",
+    "personalPlanStatus": null,
+    "birthDate": "2001-03-01T00:00:00.000Z",
+    "birthCountry": {
+      "id": 2,
+      "name": "אתיופיה"
+    }
+  }
+
+]
